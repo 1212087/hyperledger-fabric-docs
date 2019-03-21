@@ -1,0 +1,7 @@
+site_name: My Docs
+nav:
+  - Giới thiệu: index.md
+  - Cấu trúc: architecture.md
+  - Cài đặt: install.md
+  - First Project: first-project.md
+theme: readthedocs
